@@ -1,0 +1,166 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Taut Pinang",
+        "id": "Taut Pinang"
+      },
+      "description": {
+        "en": "Custom linktree-style platform for BPS Kota Tanjungpinang to manage important links and resources efficiently",
+        "id": "Platform tautan kustom untuk BPS Kota Tanjungpinang dalam mengelola tautan penting dan sumber daya secara efisien"
+      },
+      "techStack": ["Laravel", "Livewire", "Flowbite", "CSS", "HTML"],
+      "liveDemo": "https://t.gurind.am/",
+      "github": null,
+      "image": "foto/taut-pinang.png",
+      "icon": "fa-link",
+      "gradient": "from-blue-400 to-purple-600"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "SEkoPinang",
+        "id": "SEkoPinang"
+      },
+      "description": {
+        "en": "Digital platform for coffee shop data collection across all coffee shops in Tanjungpinang City",
+        "id": "Platform digital untuk pengisian data kedai kopi di seluruh kota Tanjungpinang"
+      },
+      "techStack": ["Laravel", "Flowbite", "JavaScript", "CSS", "HTML"],
+      "liveDemo": "https://sekopinang.gurind.am/",
+      "github": null,
+      "image": "foto/sekopinang.png",
+      "icon": "fa-coffee",
+      "gradient": "from-green-400 to-blue-600"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "SISAKTI",
+        "id": "SISAKTI"
+      },
+      "description": {
+        "en": "Statistical data collection system for Kelurahan Tanjung Ayun Sakti with comprehensive analytics and reporting",
+        "id": "Sistem pendataan statistik Kelurahan Tanjung Ayun Sakti dengan analitik dan pelaporan komprehensif"
+      },
+      "techStack": ["Laravel", "Flowbite", "Ajax", "CSS", "HTML"],
+      "liveDemo": "https://sisakti.tanjungayunsaktikel.tanjungpinangkota.go.id/",
+      "github": null,
+      "image": "foto/sisakti.png",
+      "icon": "fa-chart-bar",
+      "gradient": "from-indigo-400 to-blue-600"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Reservasi Aula",
+        "id": "Reservasi Aula"
+      },
+      "description": {
+        "en": "Aula reservation system for BPS Kota Tanjungpinang to manage hall booking and scheduling efficiently",
+        "id": "Aplikasi Reservasi Aula BPS Kota Tanjungpinang untuk mengelola pemesanan dan penjadwalan aula secara efisien"
+      },
+      "techStack": [
+        "Apps Script",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Google Sheets API"
+      ],
+      "liveDemo": "https://bps2172.github.io/reservasi-aula/",
+      "github": null,
+      "image": "foto/reservasi-aula.png",
+      "icon": "fa-calendar-alt",
+      "gradient": "from-purple-400 to-pink-600"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Entri Kinerja Pegawai",
+        "id": "Entri Kinerja Pegawai"
+      },
+      "description": {
+        "en": "Employee performance tracking application that enables staff to record work activities efficiently with direct integration to Google Sheets and Google Drive for evidence storage",
+        "id": "Aplikasi pelacak kinerja pegawai yang memudahkan staf untuk mencatat aktivitas kerja secara efisien dengan integrasi langsung ke Google Sheets dan Google Drive untuk penyimpanan bukti dokumen"
+      },
+      "techStack": [
+        "Google Apps Script",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Google Sheets API"
+      ],
+      "liveDemo": "https://oliviabernkastell.github.io/link/KipApp.html",
+      "github": null,
+      "image": "foto/entri-kipapp.png",
+      "icon": "fa-tasks",
+      "gradient": "from-blue-400 to-indigo-600"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "KIPZAI",
+        "id": "KIPZAI"
+      },
+      "description": {
+        "en": "Kinerja Pegawai - Zero-latency Automation Interface. Automated data entry system for KiPApp BPS using Selenium Chromium with Google Sheets integration for streamlined employee performance tracking",
+        "id": "Kinerja Pegawai - Zero-latency Automation Interface. Sistem entri data otomatis untuk KiPApp BPS menggunakan Selenium Chromium dengan integrasi Google Sheets untuk melancarkan pelacakan kinerja pegawai"
+      },
+      "techStack": ["Python", "Selenium", "Chromium", "CSS", "HTML"],
+      "liveDemo": "https://kipzai.onrender.com/",
+      "github": null,
+      "image": "foto/kipzai.png",
+      "icon": "fa-robot",
+      "gradient": "from-green-400 to-teal-600"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "SIAPPinang",
+        "id": "SIAPPinang"
+      },
+      "description": {
+        "en": "Sistem Informasi Absensi Petugas PST BPS Kota Tanjungpinang. Comprehensive attendance management system for Pusat Statistik Terpadu officers to track and manage duty schedules efficiently",
+        "id": "Sistem Informasi Absensi Petugas PST BPS Kota Tanjungpinang. Sistem manajemen kehadiran komprehensif untuk petugas Pusat Statistik Terpadu dalam melacak dan mengelola jadwal tugas secara efisien"
+      },
+      "techStack": [
+        "CodeIgniter 5",
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ],
+      "liveDemo": "https://tanjungpinangkota.web.bps.go.id/Siappinang/public/",
+      "github": null,
+      "image": "foto/siap-pinang.png",
+      "icon": "fa-user-clock",
+      "gradient": "from-orange-400 to-red-600"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Yuki",
+        "id": "Yuki"
+      },
+      "description": {
+        "en": "雪 · Your Ultimate Kaizen Interface. Work notification application that seamlessly integrates Google Sheets, Apps Script, and Firebase for real-time task management and notifications",
+        "id": "雪 · Your Ultimate Kaizen Interface. Aplikasi notifikasi pekerjaan yang mengintegrasikan Google Sheets, Apps Script, dan Firebase untuk manajemen tugas dan notifikasi real-time"
+      },
+      "techStack": [
+        "Google Apps Script",
+        "Firebase",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "liveDemo": "https://oliviabernkastell.github.io/yuki/",
+      "github": null,
+      "image": "foto/yuki.png",
+      "icon": "fa-bell",
+      "gradient": "from-cyan-400 to-blue-600"
+    }
+  ]
+}

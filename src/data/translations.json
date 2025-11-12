@@ -1,0 +1,124 @@
+{
+  "translations": {
+    "en": {
+      "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+      },
+      "hero": {
+        "greeting": "Hi, I'm",
+        "subtitle": "Web Developer & AI Engineer",
+        "description": "Passionate Web Developer & AI Engineer creating innovative digital experiences with cutting-edge technologies",
+        "cta": "View My Work"
+      },
+      "about": {
+        "title": "About Me",
+        "subtitle": "Building the Future of Web & AI",
+        "description1": "I'm a passionate Web Developer and AI Engineer with extensive experience creating innovative digital solutions. My expertise spans from modern web technologies to cutting-edge artificial intelligence applications.",
+        "description2": "I specialize in building responsive, user-friendly applications that leverage the power of AI to create intelligent, adaptive experiences. From sleek frontend interfaces to complex backend systems, I bring ideas to life through code.",
+        "traits": {
+          "problemSolver": "Problem Solver",
+          "teamPlayer": "Team Player",
+          "fastLearner": "Fast Learner",
+          "detailOriented": "Detail Oriented"
+        },
+        "stats": {
+          "projects": "Projects",
+          "years": "Years",
+          "clients": "Happy Clients"
+        }
+      },
+      "skills": {
+        "title": "Skills & Expertise",
+        "subtitle": "Technologies I work with",
+        "frontend": "Frontend Projects",
+        "backend": "Backend Projects",
+        "ai": "AI/ML Projects",
+        "tools": "Tools & Others"
+      },
+      "portfolio": {
+        "title": "Featured Projects",
+        "viewDemo": "Live",
+        "viewGithub": "View on GitHub"
+      },
+      "contact": {
+        "title": "Get In Touch",
+        "subtitle": "Let's Work Together",
+        "description": "I'm always interested in hearing about new projects and opportunities. Feel free to reach out directly via WhatsApp for a quick response!",
+        "whatsappChat": "Chat on WhatsApp",
+        "sendEmail": "Send Email",
+        "otherWays": "Other Ways to Connect",
+        "githubDesc": "Check out my code",
+        "linkedinDesc": "Professional network",
+        "mediumDesc": "Read my articles"
+      },
+      "footer": {
+        "socials": "Connect with me"
+      },
+      "copyright": "© 2025 Albert Assidiq. All rights reserved."
+    },
+    "id": {
+      "nav": {
+        "home": "Beranda",
+        "about": "Tentang",
+        "skills": "Keahlian",
+        "portfolio": "Portofolio",
+        "contact": "Kontak"
+      },
+      "hero": {
+        "greeting": "Halo, Saya",
+        "subtitle": "Web Developer & AI Engineer",
+        "description": "Membangun solusi digital inovatif dengan teknologi web modern dan kecerdasan buatan.",
+        "cta": "Lihat Karya Saya"
+      },
+      "about": {
+        "title": "Tentang Saya",
+        "subtitle": "Membangun Masa Depan Web & AI",
+        "description1": "Saya seorang Web Developer dan AI Engineer yang bersemangat dengan pengalaman luas dalam menciptakan solusi digital inovatif. Keahlian saya mencakup dari teknologi web modern hingga aplikasi kecerdasan buatan mutakhir.",
+        "description2": "Saya berspesialisasi dalam membangun aplikasi yang responsif dan user-friendly yang memanfaatkan kekuatan AI untuk menciptakan pengalaman yang cerdas dan adaptif. Dari antarmuka frontend yang elegan hingga sistem backend yang kompleks, saya mewujudkan ide-ide melalui kode.",
+        "traits": {
+          "problemSolver": "Pemecah Masalah",
+          "teamPlayer": "Pemain Tim",
+          "fastLearner": "Pembelajar Cepat",
+          "detailOriented": "Berorientasi Detail"
+        },
+        "stats": {
+          "projects": "Proyek",
+          "years": "Tahun",
+          "clients": "Klien Puas"
+        }
+      },
+      "skills": {
+        "title": "Keahlian & Kompetensi",
+        "subtitle": "Teknologi yang saya gunakan",
+        "frontend": "Proyek Frontend",
+        "backend": "Proyek Backend",
+        "ai": "Proyek AI/ML",
+        "tools": "Alat & Lainnya"
+      },
+      "portfolio": {
+        "title": "Proyek Unggulan",
+        "viewDemo": "Live",
+        "viewGithub": "Lihat di GitHub"
+      },
+      "contact": {
+        "title": "Hubungi Saya",
+        "subtitle": "Mari Bekerja Sama",
+        "description": "Saya selalu tertarik untuk mendengar tentang proyek dan peluang baru. Jangan ragu untuk menghubungi saya langsung via WhatsApp untuk respons cepat!",
+        "whatsappChat": "Chat di WhatsApp",
+        "sendEmail": "Kirim Email",
+        "otherWays": "Cara Lain Terhubung",
+        "githubDesc": "Lihat kode saya",
+        "linkedinDesc": "Jaringan profesional",
+        "mediumDesc": "Baca artikel saya"
+      },
+      "footer": {
+        "socials": "Terhubung dengan saya"
+      },
+      "copyright": "© 2025 Albert Assidiq. Hak cipta dilindungi."
+    }
+  }
+}
