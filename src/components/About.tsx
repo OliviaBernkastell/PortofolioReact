@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useSimpleLanguage } from '../hooks/useSimpleLanguage';
+import { CheckCircle } from 'lucide-react';
 
 const About: React.FC = () => {
   const { t } = useSimpleLanguage();
@@ -39,10 +40,10 @@ const About: React.FC = () => {
   }, []);
 
   const traits = [
-    { icon: 'fa-check-circle', text: t('about.traits.problemSolver') },
-    { icon: 'fa-check-circle', text: t('about.traits.teamPlayer') },
-    { icon: 'fa-check-circle', text: t('about.traits.fastLearner') },
-    { icon: 'fa-check-circle', text: t('about.traits.detailOriented') },
+    { icon: <CheckCircle className="w-5 h-5" />, text: t('about.traits.problemSolver') },
+    { icon: <CheckCircle className="w-5 h-5" />, text: t('about.traits.teamPlayer') },
+    { icon: <CheckCircle className="w-5 h-5" />, text: t('about.traits.fastLearner') },
+    { icon: <CheckCircle className="w-5 h-5" />, text: t('about.traits.detailOriented') },
   ];
 
   
@@ -88,7 +89,7 @@ const About: React.FC = () => {
             <div className="grid grid-cols-2 gap-4 mb-6">
               {traits.map((trait, index) => (
                 <div key={index} className="flex items-center space-x-2">
-                  <i className={`${trait.icon} bg-gradient-to-r from-blue-500 to-cyan-500 text-transparent bg-clip-text`}></i>
+                  <div className="text-blue-500">{trait.icon}</div>
                   <span className="text-gray-700 dark:text-gray-300">{trait.text}</span>
                 </div>
               ))}
